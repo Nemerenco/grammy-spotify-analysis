@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+pyarrow
+requests
+snakemake
+scikit-learn
+kaggle
+spotipy
+python-dotenv
+seaborn
