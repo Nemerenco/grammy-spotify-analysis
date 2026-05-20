@@ -1,0 +1,8 @@
+.env
+.cache
+.snakemake/
+__pycache__/
+*.pyc
+data/*.csv
+logs/*.txt
+.DS_Store
